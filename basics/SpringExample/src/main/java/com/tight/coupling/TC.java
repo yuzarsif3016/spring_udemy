@@ -5,4 +5,5 @@ public class TC {
         UserMg usermg = new UserMg();
         System.out.println(usermg.getUserInfo());
     }
+
 }
